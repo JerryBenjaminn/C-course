@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main(){
-
+int main()
+{   
 
     //Integers
 
@@ -58,9 +58,8 @@ int main(){
     std::cout << "My name is " << name << " my birthday is in " << month << " and I live in " << city << "\n";
 
     std::cout << name;
-
     
-
+    //IDE change
 
     return 0;
 }
