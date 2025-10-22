@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello! What is your name?: ";
     std::cin >> name;
 
-    std::cout << "Hello, " << name << "!";
+    std::cout << "Hello, " << name << ".";
 
     return 0;
 }
