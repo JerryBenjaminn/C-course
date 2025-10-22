@@ -5,10 +5,10 @@ int main()
     int width;
     int heigth;
 
-    std::cout << "Type width: ";
+    std::cout << "Type rectangle width: ";
     std::cin >> width;
 
-    std::cout << "Type heigth: ";
+    std::cout << "Type rectangle heigth: ";
     std::cin >> heigth;
     
     double rectArea = width * heigth;
