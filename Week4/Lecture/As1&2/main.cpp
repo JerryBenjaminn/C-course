@@ -1,5 +1,5 @@
 #include <iostream>
-
+//T1
 class Car
 {
     private:
@@ -23,6 +23,7 @@ class Car
         }
 };
 
+//T2
 class Lamp {
  
 public:
